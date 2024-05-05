@@ -1,0 +1,4 @@
+Cual es la masa del sol
+1 2 3 1989X10^8
+En que lenguaje esta escrito el siguiente programa
+Java Dart Kotlin Go
